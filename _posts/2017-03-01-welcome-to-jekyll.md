@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll"
+title: "We like Colorado"
 layout: post
 ---
 
